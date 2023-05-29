@@ -1,6 +1,6 @@
 #!/bin/bash
 
-while true
+for i in `seq 1 1 50`
 do
 	for i in {1..10}
 	do
