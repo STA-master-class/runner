@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in `seq 1 1 50`
+for i in `seq 1 1 3`
 do
 	for i in {1..10}
 	do
