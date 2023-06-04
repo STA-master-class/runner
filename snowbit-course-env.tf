@@ -347,7 +347,7 @@ resource "aws_security_group_rule" "security_group_rule_allow_3306_from_webserve
 
 
 resource "aws_instance" "AttackerServer" {
-  ami                       = "ami-0883fdf5036cf51d9"
+  ami                       = "ami-0e6156a34567a0030"
   instance_type             = "t3a.nano"
   key_name                  = "snowbit_course"
   associate_public_ip_address = true
